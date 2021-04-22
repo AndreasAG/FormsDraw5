@@ -1,7 +1,7 @@
 # FormsDraw5
 Feigenbaum-Variante
 Stand 26.11.2020
-Umgesetzung eines Pascal-Projekts "fractal.pas" von 1988
+Umsetzung eines Pascal-Projekts "fractal.pas" von 1988
 
 Randbedingungen:
 - Programmiersprache: c#
